@@ -1,0 +1,34 @@
+{
+   "name": "Revised Brushed",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 117, 117, 117 ],
+         "ntp_background": [ 117, 117, 117 ],
+         "ntp_link": [ 0, 0, 0 ],
+         "ntp_section": [ 255, 255, 255, 0.4 ],
+         "ntp_section_link": [ 0, 0, 0 ],
+         "ntp_section_text": [ 0, 0, 0 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 105, 105, 105 ]
+      },
+      "images": {
+         "theme_button_background": "imgs/theme_button_background.png",
+         "theme_frame": "imgs/theme_frame.png",
+         "theme_ntp_background": "imgs/theme_ntp_background.png",
+         "theme_toolbar": "imgs/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top left",
+         "ntp_background_repeat": "repeat-x",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ 0.6, 0, 0.5 ]
+      }
+   },
+   "version": "1.0",
+   "manifest_version": 3
+}
