@@ -12,7 +12,8 @@
          "ntp_text": [ 0, 0, 0 ],
          "tab_background_text": [ 0, 0, 0 ],
          "tab_text": [ 0, 0, 0 ],
-         "toolbar": [ 105, 105, 105 ]
+         "toolbar": [ 105, 105, 105 ],
+         "toolbar_button_icon": [ 64, 64, 64 ]
       },
       "images": {
          "theme_button_background": "imgs/theme_button_background.png",
@@ -29,6 +30,6 @@
          "buttons": [ 0.6, 0, 0.5 ]
       }
    },
-   "version": "1.0",
+   "version": "1.2",
    "manifest_version": 3
 }
